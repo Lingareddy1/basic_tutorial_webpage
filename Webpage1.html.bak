@@ -1,0 +1,43 @@
+<html>
+ <head>
+   <title>Webpage</title>
+   <link rel="stylesheet" href="csswebpage.css"> </link>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> </link>
+ </head>
+ <body>
+   <div id="hmdiv">
+
+	  <ul>  
+		<li> <a id="anav"  href="homepage.html">   <i class="fa fa-home"> </i>  Home </a> </li>
+		<li> <a id="anav"  href="mainhtmlpg.html"> <i class="fab fa-html5"> </i> Html </a> </li>
+		<li> <a id="anav"  href="maincss.html">    <i class="fab fa-css3-alt"> </i> CSS </a> </li>
+		<li> <a id="anav"  href="Javascript.html"> <i class="fab fa-js-square" > </i> JavaScript  </a> </li>
+		<li> <a id="anav"  href="aboutus.html">    <i class="fas fa-info-circle"> </i> About Us </a> </li>
+	  </ul>
+      
+   </div>
+
+
+   <div id="webdiv">
+	 <center> <h1 id="webh1"> <em> !!! Web Technologies !!! </em> </h1> </center>
+    </div>
+
+
+     
+
+      <!--
+   <div id="homediv">
+     <center> <h1 id="h1home"> Home Page </h1> </center>   #4caf50   #b6daaf   hover:#9933ff   active:#a6d1a5
+   </div> --->
+
+   <!--    <div id="webdiv">
+	 <center> <h1 id="webh1"> <em> Welcome To The Page!!!! </em> </h1> </center>   color:  #111111 #b3d7b0  #30d5c8   #00d6d6 #a8b7c8
+    </div> 
+	#728dce  cslftsec #a7b8e0 ;   #a7b8e0 lftsec ; div1 #728dce;
+	
+	--->
+
+
+  
+ </body>
+</html>
